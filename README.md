@@ -190,6 +190,6 @@ cd smartcare-fyp
 
 - Portfolio: https://bashantarokaha.com.np
 - GitHub: https://github.com/Basantae
-- LinkedIn: [add your link]
+- LinkedIn: https://www.linkedin.com/in/bashanta-rokaha-4a266633b/
 - Instagram (Innovate Upward): [@yorkerr.07](https://instagram.com/yorkerr.07)
-- Email: [add your email]
+- Email: rokhabasasnta0@gmail.com
